@@ -1,4 +1,4 @@
-## Innovation Project in College
+## Innovation Project 
 You can interact with the prototype by clicking the button below in Figma:
 [Prototype](https://www.figma.com/proto/56Xlp53EoNql6IhstUx7H6/Final-project?node-id=1048-1063&p=f&t=kVM0329u9LD020Or-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
